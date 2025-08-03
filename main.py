@@ -21,5 +21,4 @@ elif operaçao == "/":
 elif operaçao == "$":
     print(f"A Raiz quadrada é: {m.sqrt(numero)}")
 else:
-  print("Cadeeeeeeee")
-
+    print("Cadeeeeeeee")
