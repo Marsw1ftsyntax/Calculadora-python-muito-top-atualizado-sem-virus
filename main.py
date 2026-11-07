@@ -7,7 +7,7 @@ try:
     numero=int(numero)
     numero2=int(numero2)
 except:
-    print("Cade o numero otalu?")
+    print("Cade o numero otaro?")
     exit()
 
 if operaçao == "+":
