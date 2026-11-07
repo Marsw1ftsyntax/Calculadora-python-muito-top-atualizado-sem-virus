@@ -1,2 +1,1 @@
-# Calculadora-python-muito-top-atualizado-sem-virus
-isso mesmo por 9.99
+Sim eu sei eu só estava começando a estudar lógica de forma simples😔
